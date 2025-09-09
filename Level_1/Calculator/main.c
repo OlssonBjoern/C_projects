@@ -1,4 +1,32 @@
 #include <stdio.h>
+#include <string.h>
+
+int calculate(int num1, int num2, int num3, char sign) {
+
+    int result;
+
+    if (sign == '+')  {
+        
+        result = num1 + num2;
+
+    } else if (sign == '-') {
+
+        result = num1 - num2;
+
+    } else if (sign == '*') {
+
+        result = num1 * num2;
+
+    } else if (sign == '/') {
+
+        result = num1 / num2;
+
+    } else {
+        printf("Invalid operation sign, ");
+    }
+    
+
+}
 
 
 int main() {

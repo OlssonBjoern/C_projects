@@ -32,6 +32,7 @@ void add_lender(struct Book_lender lender) {
 
     }
     
+    // Search file for duplicate user by name
 
     // Write to file
     // int fprintf(FILE *stream, const char *format, ...);

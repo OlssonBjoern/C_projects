@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bjornolsson/C_projects/LinkedIn_Complete_Guide_to_C_programming/Chapter3/ch3_challenge2_math'
+relocations:     []
+...

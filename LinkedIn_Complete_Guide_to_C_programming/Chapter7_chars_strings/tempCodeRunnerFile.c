@@ -1,1 +1,2 @@
-supersecretpassword
+
+			input[x] = toupper(input[x]);
